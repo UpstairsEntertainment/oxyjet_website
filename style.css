@@ -1,5 +1,5 @@
 body { 
-    background-image: url('/Graphics/stars_skybox.png');
+    background-image: url('/spacebeef/Graphics/stars_skybox.png');
     background-repeat: repeat;
     background-attachment: fixed;
     position: static;
