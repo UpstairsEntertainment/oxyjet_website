@@ -57,6 +57,13 @@ body {
 	position: absolute;
 }
 
+#mc_embed_signup {
+	background:#fff;
+	clear:left;
+	font: 14px Helvetica, Arial, sans-serif; 
+	width:100%;
+}
+
 .small-text {
 	color: white;
 	font-family: Tahoma, Geneva, sans-serif;
