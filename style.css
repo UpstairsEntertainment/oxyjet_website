@@ -3,7 +3,7 @@ body {
 }
 
 header {
-	background-image: url('/Graphics/stars_skybox.png');
+	background-image: url('./Graphics/stars_skybox.png');
 	height: 100vh;
 }
 
