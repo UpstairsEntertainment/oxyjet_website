@@ -73,6 +73,35 @@ header {
 	height: 100%;
 }
 
+#bubbles {
+	display: flex;
+	list-style: none;
+	height: 100%;
+}
+
+#bubbles li {
+	height: 10%;
+	margin: 3px;
+
+	display: inline-block;
+	position: relative;
+}
+
+#bubbles li p {
+	margin: 0px;
+	text-align: center;
+	font-size: 14px;
+}
+
+#bubbles img {
+	height: 100%;
+	width: 100%;
+}
+
+.sub {
+	color: darkgrey;
+}
+
 .small-text {
 	color: white;
 	font-family: Roboto, sans-serif;
